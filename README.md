@@ -6,4 +6,4 @@ This repository contains the independent research paper and corresponding Jupyte
 
 Research paper-->https://github.com/rico0-dotcom/-Bitcoin-Implied-Volatility-Changes/blob/main/Predicting%20IV.pdf
 
-Code-->
+Code-->https://github.com/rico0-dotcom/-Bitcoin-Implied-Volatility-Changes/blob/main/time_series.ipynb
